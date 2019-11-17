@@ -1,0 +1,9 @@
+ .img {
+    border-block: 1;
+    border-block-color: orange;
+}
+div.b {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important ; 
+}
